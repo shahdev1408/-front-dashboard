@@ -39,7 +39,8 @@
     // Cleaned up duplicate/Windows paths for clarity
     ,
     ".next\\dev/types/**/*.ts",
-    ".next\\dev/types/**/*.ts"
+    ".next\\dev/types/**/*.ts",
+    ".next/dev/types/**/*.ts"
   ],
   "exclude": [
     "node_modules"
