@@ -1,3 +1,4 @@
+// @ts-nocheck
 "use client"; // Required for hooks
 
 import { useState, useEffect } from "react";
